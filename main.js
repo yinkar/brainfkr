@@ -1,4 +1,4 @@
-b = new BrainFkr();
+const b = new Brainfkr();
 b.setOutputElement('.output');
 
 document.querySelector('.interprete').addEventListener('click', () => {

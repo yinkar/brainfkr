@@ -1,4 +1,4 @@
-class BrainFkr {
+class Brainfkr {
     constructor() {
       this.tape = [];
       this.head = 0;
