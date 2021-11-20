@@ -22,7 +22,8 @@ body {
 
 .app-window {
     margin: 50px auto;
-    width: 550px;
+    min-width: 200px;
+    max-width: 550px;
 }
 
 .link-area {
